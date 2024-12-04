@@ -19,10 +19,7 @@ y mi doctorado cambiaron.
 Una de ellas fue la manera en que ciertas ideas sobre la producción de conocimiento explotaron,
 o quizás tomaron muchísima más popularidad que la que tenía años antes.
 Esto se debía a que la mayoría de las personas tenían que trabajar remoto en el
-medio de una pandemia global^[
-La cual todavía no sabemos ni reconocemos todos los efectos.
-Incluso yo todavía no se qué efectos tuvo sobre mí.
-Todos los días lo sigo descubriendo.]
+medio de una pandemia global[^1]
 la cual exigía que todos nos acomodemos a trabajar de una manera que
 no habíamos pensado como antes.
 La explosión de metodologías y de métodos para generar producción o
@@ -38,6 +35,8 @@ Algo que todo becario de CONICET tiene en mente
 como objetivo final para poder continuar en su carrera.
 Al menos así lo veía yo.
 
+[^1]: La cual todavía no sabemos ni reconocemos todos los efectos. Incluso yo todavía no se qué efectos tuvo sobre mí. Todos los días lo sigo descubriendo.
+
 Durante dos años traté infructuosamente llevar a cabo dicho método.
 De hecho consideraba que la idea de que el método genera *serendipity*
 es una virtud para poder encontrar nuevo conocimiento en los campos disciplinar
@@ -50,14 +49,9 @@ De hecho recién este año (2024) puedo decir que encontré con un libro capaz d
 capturar de manera precisa como tiene que ser llevado a cabo el método,
 <!-- TODO: Agregar link para el libro de Doto -->
 y no solo eso, sino también la tarea de escribir cualquier cosa mediante
-lectura de fuentes y bibliografía.^[
-No estoy diciendo que no había nada antes de eso.
-El libro de Eco sobre "Cómo escribir una tesis"
-<!-- TODO: Agregar el libro de Eco -->
-es excelente para llevar a cabo un zettelkasten no *a la Luhmann*
-sino *a la Eco*.
-Un texto obligatorio para todo aquel que quiere llevar a cabo una investigación
-en humanidades y en ciencias sociales.]
+lectura de fuentes y bibliografía.[^2]
+
+[^2]: No estoy diciendo que no había nada antes de eso. El libro de Eco sobre "Cómo escribir una tesis" <!-- TODO: Agregar el libro de Eco --> es excelente para llevar a cabo un zettelkasten no *a la Luhmann* sino *a la Eco*. Un texto obligatorio para todo aquel que quiere llevar a cabo una investigación en humanidades y en ciencias sociales.
 
 Pero, al menos para mi,
 no creo que tener un zettelkasten no es lo correcto para mi.
