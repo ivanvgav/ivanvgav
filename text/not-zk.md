@@ -42,16 +42,18 @@ De hecho consideraba que la idea de que el método genera *serendipity*
 es una virtud para poder encontrar nuevo conocimiento en los campos disciplinar
 y llevar a cabo ciertas ideas que puedan considerarse "novedosas".
 Es cierto que durante esos años muchos habían escrito sobre como llevar a cabo el método.
-El propio Luhmann tiene dos escritos sobre como llevar a cabo esto.
-<!-- TODO: buscar link para agregarlo como una nota al pie. -->
+El propio Luhmann tiene dos escritos sobre como llevar a cabo esto.[^3]
 Sin embargo no estaba para nada claro como llevar específicamente a cabo dicha tarea.
-De hecho recién este año (2024) puedo decir que encontré con un libro capaz de
+De hecho recién este año (2024) puedo decir que encontré con un libro [^4] capaz de
 capturar de manera precisa como tiene que ser llevado a cabo el método,
-<!-- TODO: Agregar link para el libro de Doto -->
 y no solo eso, sino también la tarea de escribir cualquier cosa mediante
 lectura de fuentes y bibliografía.[^2]
 
-[^2]: No estoy diciendo que no había nada antes de eso. El libro de Eco sobre "Cómo escribir una tesis" <!-- TODO: Agregar el libro de Eco --> es excelente para llevar a cabo un zettelkasten no *a la Luhmann* sino *a la Eco*. Un texto obligatorio para todo aquel que quiere llevar a cabo una investigación en humanidades y en ciencias sociales.
+[^2]: No estoy diciendo que no había nada antes de eso. El libro de Eco sobre "Cómo se hace una tesis" <https://www.epublibre.org/libro/detalle/15539> es excelente para llevar a cabo un zettelkasten no *a la Luhmann* sino *a la Eco*. Un texto obligatorio para todo aquel que quiere llevar a cabo una investigación en humanidades y en ciencias sociales.
+
+[^3]: <https://luhmann.surge.sh/>
+
+[^4]: <https://www.amazon.com/dp/B0D18J83VB> 
 
 Pero, al menos para mi,
 no creo que tener un zettelkasten no es lo correcto para mi.
