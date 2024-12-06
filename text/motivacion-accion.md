@@ -1,4 +1,7 @@
 # Motivación y acción
+
+`Vier Dic 6 16:47:40 -03 2024`
+
 Creo que lo mejor que podemos hacer es seguir escribiendo y pensando en todas las cosas
 que se pueden hacer para mejorar.
 Creo que podemos tener un punto de vista cuando nos damos cuenta de que queremos cambiar algo
