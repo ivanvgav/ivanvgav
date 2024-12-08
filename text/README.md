@@ -10,3 +10,4 @@ A sort of lazy blog.
 
 - [La respuesta a cómo investigar no es un Zettelkasten (al menos para mí)](./not-zk.md)
 - [Motivación y acción](./motivacion-accion.md)
+- [Lo que se neseita para la universidad y para la investigación](./what-it-takes.md)
