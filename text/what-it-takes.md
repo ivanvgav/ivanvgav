@@ -1,5 +1,7 @@
 # Qué se necesita para la universidad (como docente)
 
+`Sáb Dec 7 11:33:17 PM -03 2024`
+
 Si uno desea estar en un lugar docente en la universidad hay que tener en claro
 varias cosas para poder tener una expectativas esperables de cuan plausible
 es entrar en la institución y cómo entrar en ella.
