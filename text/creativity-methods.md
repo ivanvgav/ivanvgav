@@ -13,7 +13,7 @@ hasta que salgan bien,
 ya que muchas de ellas, intrínsecamente, son complejas y necesitan de ese proceso.
 
 Me topé con este vide hace algunos días
-(<https://youtu.be/I8t843odK34?si=4xAFrU74b76xYtPf>)
+(<https://youtu.be/I8t843odK34?si=vzvtkWttFLYgp2Hx>)
 de un interesante personaje de internet,
 es desarrollador de programas para `emacs` y
 realiza muchos comentarios filosóficos
