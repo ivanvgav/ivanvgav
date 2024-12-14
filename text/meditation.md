@@ -84,5 +84,5 @@ el muro que genera esas emociones
   cada vez más rápido las paredes que van generando
 
 > [!IMPORTANT]
-> Cuando uno este con un malestar de no poder iniciar una tarea
-  realiza las técnicas sobre las sensaciones del cuerpo y luego los pensamientos
+> Cuando uno esté con un malestar de no poder iniciar una tarea lo mejor es
+  realizar las técnicas sobre las sensaciones del cuerpo y luego los pensamientos
