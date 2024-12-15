@@ -3,7 +3,7 @@
 Pequeñas notas sobre el video de j_blow sobre meditación:
 <https://youtu.be/i7kh8pNRWOo?si=k5XJan49Es0mw8sy>
 
-- Con las emociones tenemos una parte asbtracta y una parte física
+- Con las emociones tenemos una parte abstracta y una parte física
   - Hay que trabajarlas en separas para luego unirlas
 
 ## Para los pensamientos
@@ -14,7 +14,7 @@ Pequeñas notas sobre el video de j_blow sobre meditación:
   - Técnica:
     1. Piensa en algo que no es emocionalmente cargado,
        mientras tenes la experiencia de todo lo percibido alrededor
-       haciendo que los pensamientos pasen y volves a la percepción
+       haciendo que los pensamientos pasen y volvés a la percepción
        de todo el lugar.
   - Los pensamientos son una pequeña parte de todas la experiencia sensorial
     - Esto permite que uno pueda distanciarse de esos pensamientos
@@ -49,7 +49,7 @@ Pequeñas notas sobre el video de j_blow sobre meditación:
 - A veces las sensaciones hacen que uno las interprete y
   las agrande más allá de lo que son
   - La mente va a amplificar algunas sensaciones para evitarlas o para contenerlas,
-    debido a experiencias historicas tuyas o incluso a la propia evolución del ser humano
+    debido a experiencias históricas tuyas o incluso a la propia evolución del ser humano
     - Esto permite ver en cómo uno las responde
 
 ## Sobre emociones acerca de nuevos eventos
@@ -65,7 +65,7 @@ Con el tiempo aunque sientas las emociones de manera fuerte,
 vas a ver que puedes romper
 el muro que genera esas emociones
 
-## Sintesis de las técnicas
+## Síntesis de las técnicas
 
 - Siempre estamos con una mezclas de todas estas cosas en separado 
   (pensamiento, emoción, sensaciones corporales).
