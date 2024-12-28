@@ -23,3 +23,28 @@ fracasé estrepitosamente.
 Con ese fracaso no pude tomarlo y generar algo realmente positivo para mí.
 En todo caso siempre me fue la prueba inductiva de que no era por ahí.
 No solo porque lo pensaba yo sino que me lo decían otras personas.
+
+---
+
+Sab Dic 28 01:41:23 -03 2024
+
+Mi accionar parece ser el de la simple contemplación del accionar de los otros,
+pero eso en este mundo capitalista no tiene nada que aportar al mundo.
+Hasta el momento no he podido llevar a cabo algo de lo que produzca que
+me genere el hecho de considerarme orgulloso de algo por mi mismo
+y solo por mi mismo.
+Por algo que lo he hecho "yo".
+Creo que eso también es un problema bastante grande que no se de donde proviene
+ni de como solucionarlo.
+
+Por eso también he pensado que me cuesta tanto tomar la iniciativa de las cosas.
+Porque siempre he ocupado un rol pasivo en el accionar del mundo.
+Siempre lo he pensado y recién hace muy poco en mi vida me he dado cuenta que
+no tiene sentido alguno seguir en esa posición que me fue natural.
+Y ese nuevo aprendizaje se hace mucho más difícil si, además, soy plenamente consciente de él.
+Por ello aprendemos a caminar cuando somos unos meros cachorros humanos,
+la dificultad y la frustración de que un adulto tenga que caminar por primera vez
+es demasiado para cualquiera,
+más si este tiene una auto-conciencia grande acerca de cada paso.
+Eso también tiene que ver con lo que uno considera su *ego*.
+[Véase la siguiente nota para tener en cuenta lo que pienso sobre mi ego.](./on-ego.md)
