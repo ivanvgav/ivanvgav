@@ -4,7 +4,7 @@ Pequeñas notas sobre el video de j_blow sobre meditación:
 <https://youtu.be/i7kh8pNRWOo?si=k5XJan49Es0mw8sy>
 
 - Con las emociones tenemos una parte abstracta y una parte física
-  - Hay que trabajarlas en separas para luego unirlas
+  - Hay que trabajarlas en separarlas para luego unirlas
 
 ## Para los pensamientos
 
@@ -22,16 +22,16 @@ Pequeñas notas sobre el video de j_blow sobre meditación:
     2. Piensa en cuanto tiempo ese pensamiento tarda en irse y cuanto pesan en ti
       - Nos permite ver que no podemos sostener ese exacto pensamiento,
         no podemos pensar en pararlo en el medio.
-- La técnica nos permite no ser tan reactivos inmediatamente con nuestro pensamientos
+- La técnica nos permite no ser tan reactivos *inmediatamente* con nuestro pensamientos
 
 ## Para la parte física
 
 - Técnica:
   1. Sentarse y poner la atención en la presión que el cuerpo hace sobre la silla.
-     Sienta la sensación y observa como es.
+     Siente la sensación y observa cómo es.
      Piensa si esta bien definida.
      Cómo sería la figura que uno dibujaría de esa sensación.
-- Cuando uno presta atención a como se encuentra en el cuerpo de manera profunda,
+- Cuando uno presta atención a cómo se encuentra en el cuerpo de manera profunda,
   cuando vuelve a la atención normal esa sensación se vuelve distinta.
 
   2. Poner la mano en algo que se esta moviendo y ver como manejar la atención
@@ -41,7 +41,8 @@ Pequeñas notas sobre el video de j_blow sobre meditación:
 - Esto tiene que ser con una mirada realmente exploratoria, no buscando algo
   en particular o intencional.
 - Puede servir con cualquier sensación.
-  - La sensación en realidad es *neutral*. Esto proviene de la observación plena.
+  - La sensación en realidad es *neutral*.
+    Esto proviene de la observación plena.
   - La idea es tratar de sacar la línea de interpretación sobre la emoción negativa
 
 - Las sensaciones son neutrales es tu interpretación las que las cargan
