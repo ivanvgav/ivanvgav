@@ -12,4 +12,3 @@ A sort of lazy blog.
 - [Motivación y acción](./motivacion-accion.md)
 - [Lo que se necesita para la universidad y para la investigación](./what-it-takes.md)
 - [Mi método creativo](./creativity-methods.md)
-
