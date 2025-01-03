@@ -26,7 +26,7 @@ No solo porque lo pensaba yo sino que me lo decían otras personas.
 
 ---
 
-Sab Dic 28 01:41:23 -03 2024
+`Sab Dic 28 01:41:23 -03 2024`
 
 Mi accionar parece ser el de la simple contemplación del accionar de los otros,
 pero eso en este mundo capitalista no tiene nada que aportar al mundo.
@@ -48,3 +48,42 @@ es demasiado para cualquiera,
 más si este tiene una auto-conciencia grande acerca de cada paso.
 Eso también tiene que ver con lo que uno considera su *ego*.
 [Véase la siguiente nota para tener en cuenta lo que pienso sobre mi ego.](./on-ego.md)
+
+---
+
+`Fri Jan  3 17:05:26 -03 2025`
+
+Creo que no puedo ver bien que es lo que quiero porque estoy todo el tiempo saltando
+de teoría a la práctica y de la práctica a la teoría.
+De hecho el especulador como figura que se queda paralizado porque no sabe que hacer puesto que
+tiene todas las posibilidades en frente pero son todas equivalentes,
+aunque sabe que no lo son.
+Solo le son equivalentes por el hecho de que todas tienen consecuencias y
+tomar una de ellas va a significar resignar las otras.
+Y eso es algo que ya ha hecho antes y lo ha llevado al momento y lugar en el que está.
+Esa es la imagen en la que me encuentro desde hace ya años.
+
+Soy consciente de que todo tiene un costo y una responsabilidad siempre.
+¿Por qué no quiero hacerme responsable?
+Será porque lo he sido muy tempranamente y ahora no quiero seguir siendo así?
+Será porque no puedo encontrar algo que realmente me haga tomar decisiones responsables?
+Será por miedo y pereza que siempre voy a estar de esta manera?
+No lo sé.
+Lo que si se es que no tengo mucho tiempo para poder responder eso y,
+a la vez,
+el tiempo pasa...Siempre el tiempo pasa...
+
+Entonces vuelvo al punto cero:
+aunque tome una decisión, en el momento siguiente voy a estar inmóvil,
+no voy a poder saber que voy a tener que hacer o poder hacer con ella.
+
+También tengo claro que las acciones no tienen que ser llevadas a cabo por las *motivaciones*,
+sino por *decisiones* de mi mismo.
+Entonces, al parecer, siempre me decido por quedarme paralizado.
+
+Si bien el escribir hace que quede una constatación de todo lo que pienso,
+no creo que haya sido la herramienta principal para poder llegar aquí.
+No digo que no sea útil, sino que para mi no es una herramienta reveladora
+y sanadora para mejorar la vida de uno.
+Sino más bien un espejo que solo me devuelve mi misma mirada paralizante/ada
+que no sabe qué camino y qué acción tomar.
