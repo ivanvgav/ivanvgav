@@ -87,3 +87,14 @@ No digo que no sea útil, sino que para mi no es una herramienta reveladora
 y sanadora para mejorar la vida de uno.
 Sino más bien un espejo que solo me devuelve mi misma mirada paralizante/ada
 que no sabe qué camino y qué acción tomar.
+
+---
+
+`Sat Jan  4 07:01:52 PM -03 2025`
+
+Puede ser que otra de las cuestiones por la que no puedo considerar el tomar la acción
+es porque no estoy dispuesto a invertir el tiempo en ella.
+Aunque la verdad no sé si será eso,
+las dudas sobre esto son cada vez mayores y la verdad es que no entiendo si es que
+estoy autoboicoteandome y gozando de la situación
+o es que no sé como salir y ninguna opción me parece apetecible.
