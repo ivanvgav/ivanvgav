@@ -1,8 +1,30 @@
+# Siempre hay que ver como los grandes investigadores de tu área han trabajado
+
+`Sat Jan  4 07:28:46 PM -03 2025`
+
+Sobre todo esto tiene que ser asi cuando no había tanta tecnología alrededor.
+Ahora pienso, por ejemplo, en mi caso, que Peirce tenía su propio *Logic Notebook*
+en donde se encuentran un montón de sus ideas y, por otro lado,
+siempre escribió con un propósito (con una finalidad marcada, leasé un libro, capitulo o articulo)
+nunca escribió por escribir, siempre el propósito lo tuvo adelante
+y todo lo que iba generando alrededor de ello lo iba guardando en cierto lugares
+como manuscritos.
+
+Si uno tiene formación científica también ver qué es lo que hicieron los grandes científicos
+del campo.
+
+Esto va más alla de la manera en que se da la metodología de la investigación
+en general y en particular de dicha disciplina.
+No quedarse en cómo han trabajado sus profesores, sino los grandes.
+Tomar las ideas y modos de allí para poder moldearlas al parecer y al modo de trabajar de uno.
+
+---
+
 # La respuesta a cómo investigar no es un Zettelkasten (al menos para mí)
 
 `Miércoles Dic 4 16:43:34 -03 2024`
 
-En el 2020 gano la beca CONICET, una beca de la agencia de ciencia y técnología
+En el 2020 gano la beca CONICET, una beca de la agencia de ciencia y tecnología
 para llevar a cabo una investigación que culmine con el título de doctor,
 en mi caso de Doctor en Filosofía.
 El tema de la investigación no viene al caso, mejor dicho,
