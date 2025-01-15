@@ -1,6 +1,6 @@
 # Sobre el *ego*
 
-Sáb 28 Dic 00:56:12 -03 2024
+`Sáb 28 Dic 00:56:12 -03 2024`
 
 La pregunta que me dejo el psicologo fue: ¿Que tal mi narcisismo?
 
