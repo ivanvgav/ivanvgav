@@ -37,6 +37,12 @@ las actitudes necesarias para que uno pueda sobrevivir en ese ámbito.
 
 Esta lista se va a poder ir modificando, esto va a cambiar a medida que revise mi propia actividad:
 
+- Tener presente qué es lo necesario para poder seguir en la carrera de investigación
+  sobre todo en los malos momentos. (Agregado `Thu Jan 30 18:29:33 -03 2025`)
+- Tener la capacidad e iniciativa de buscar y armar proyectos por uno mismo.
+  (Agregado `Thu Jan 30 18:29:33 -03 2025`)
+  - Armar proyectos para estadías, convenios e intercambios como
+    también conseguir fondos para poder seguir en el circuito académico.
 - Tener bien en cuenta qué es lo que estás haciendo
   - En mi caso, creo que nunca supe bien qué es lo que realmente la comunidad
     y la institución quería de mi
