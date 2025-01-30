@@ -10,11 +10,7 @@ pero la cuestión es que no me convoca eso para ser un trabajo
 (además se encuentra la cuestión limitante del título y, sobre todo para mí,
 del ambiente)[^1]
 
-[^1]: Al parecer todos los ambientes laborales son una mierda,
-porque siempre que hablo acerca de eso con cualquier laburante,
-tiene que tener mucha suerte para poder haber encontrado un ambiente en el que
-con sus compañeros y con sus inmediatos superiores y con los de abajo se lleve bien.
-Al final nunca salimos de la escuela parece ser.
+[^1]: Al parecer todos los ambientes laborales son una mierda, porque siempre que hablo acerca de eso con cualquier laburante, tiene que tener mucha suerte para poder haber encontrado un ambiente en el que con sus compañeros y con sus inmediatos superiores y con los de abajo se lleve bien. Al final nunca salimos de la escuela parece ser.
 
 La idea de mi sueño (que me paso a la noche del 27-01)
 de que no puedo estar hay porque están haciendo "servidores debajo del mar"
