@@ -2,7 +2,7 @@
 
 `Sáb 28 Dic 00:56:12 -03 2024`
 
-La pregunta que me dejo el psicologo fue: ¿Que tal mi narcisismo?
+La pregunta que me dejo el psicólogo fue: ¿Que tal mi narcisismo?
 
 Eso me llevo a varios borradores que solo quedaron en mi mente.
 
