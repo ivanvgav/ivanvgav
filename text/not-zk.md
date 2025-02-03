@@ -1,3 +1,38 @@
+# Mantener una sola herramienta para la investigación
+
+`Mon Feb  3 11:13:06 -03 2025`
+
+Hoy en día creo que la mejor herramienta para poder trabajar con investigación,
+al menos en humanidades es `obsidian`.
+Permite tener todo en texto plano y tiene una cantidad de plugins muy logrados,
+sobre todo lo que es para armar presentaciones y para leer pdf.
+Tal es así que también todos los formatos de sincronización han mejorado bastante.
+
+Me he dado cuenta con el tiempo
+("la experiencia es un peine que te lo dan cuando te quedas pelado")
+que hay que mantener todo lo más simple posible y lo más ajustado a los
+estándares de lo que la mayoría usa y que va a ser a prueba del tiempo.
+
+Esto quiero decir:
+
+- Software para tomar notas: Obsidian
+- Lector de pdf: Obsidian con `PDF++`
+- Bibliografía: Mantener un archivo `bib` donde se encuentre todo
+  y creo archivos propios para cuando se esté escribiendo un solo paper.
+- Presentaciones: Obsidian con el plugin de presentaciones
+  - Me permite tenerlas como texto plano y también exportarlas como PDF
+- Conversión de documentos: `pandoc`
+- Escritura de papers:
+    - Borrador: en markdown
+    - Primer borrador terminado: `latex`
+    - Compartir en `pdf` o en `docx` por medio de `pandoc`
+- Tareas relacionadas a la investigación y docencia: GitHub
+    - Usar `gh` para crear issues y la interfaz web para tema de proyectos
+- Notas para la clase:
+    - Aquí no sé si usar `quarto` o seguir solo haciendo páginas con github pages (a decidir)
+
+---
+
 # Siempre hay que ver como los grandes investigadores de tu área han trabajado
 
 `Sat Jan  4 07:28:46 PM -03 2025`
