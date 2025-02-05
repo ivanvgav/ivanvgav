@@ -1,3 +1,12 @@
+# AOM
+
+- A es para cuestiones externas
+- O es para la relación entre lo externo e interno
+- M es para lo interno
+
+Dependiendo de lo que uno quiera concentrarse debe de extender el tiempo en dice la letra.
+Esto se debe a las vibraciones que el sonido genera en el cuerpo.
+
 # Meditación *a la j_blow*
 
 Pequeñas notas sobre el video de j_blow sobre meditación:
@@ -86,4 +95,4 @@ el muro que genera esas emociones
 
 > [!IMPORTANT]
 > Cuando uno esté con un malestar de no poder iniciar una tarea lo mejor es
-  realizar las técnicas sobre las sensaciones del cuerpo y luego los pensamientos
+> realizar las técnicas sobre las sensaciones del cuerpo y luego los pensamientos
