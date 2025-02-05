@@ -1,5 +1,23 @@
 # Random thoughts
 
+`Wed Feb  5 15:04:48 -03 2025`
+
+Realmente luego de 5 años no siento que haya aprendido cosas que sean propositivas para mi
+y para mi proyecto.
+De hecho, o mejor dicho, incluso tiendo a pensar que no tengo la más punta idea
+de lo que quiero como proyecto.
+Toda la idea que había pensado se me desmoronó en el segundo año de la beca y
+por otra parte siempre estuve en un modo totalmente reactivo respecto del mundo,
+y aun lo sigo estando.
+No hay una proposición por parte mía.
+Eso es algo que no puedo todavía encontrar el agujero del mate.
+Siento que las actividades que he hecho día a día no han hecho que crezca,
+sino más bien que evolucione a otra persona
+pero que se siente con menos herramientas para poder pelear en el mundo.
+y lo que menos quiero es sentirme una carga para los que me quiere,
+porque se que eso es una pelotudez
+a la cual siempre toda mi familia siempre la tiene presente.
+
 ---
 
 `Thu Jan 30 15:55:15 -03 2025`
@@ -71,4 +89,3 @@ que me llevan a pensar que si es así.
 Sobre todo si considero que no voy a llegar a completar la tesis,
 no voy a poder dar cuenta cabalmente de lo que me pidieron que haga
 (algo que yo mismo me propuse hacer, nadie me apuntó para hacerlo más que yo mismo).
-
