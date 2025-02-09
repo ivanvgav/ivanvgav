@@ -1,5 +1,19 @@
 # Motivación y acción
 
+`Sun Feb  9 00:05:00 -03 2025`
+
+Creo que en parte de que no encuentro motivación para hacer algo que
+cambie mi situación actual tiene que ver con que encuentro un goce en el fallo.
+Creo que hasta que no puedan encontrar el porqué de ello y cómo reordenar ese goce
+no voy a tener ninguna otra manera de seguir para adelante,
+aun cuando complete las tareas más grandes que tengo a lo largo de este año.
+Porque por más que me anguistie el paso del tiempo,
+no hago nada para llevar eso al terreno propositivo.
+
+- [Sobre el fallo y fracaso](./on-failing.md)
+
+---
+
 `Sat Jan  4 07:01:52 PM -03 2025`
 
 Puede ser que otra de las cuestiones por la que no puedo considerar el tomar la acción
