@@ -12,6 +12,7 @@ The date order is from newest to oldest.
 
 ---
 
+- [Sobre fallar y el fracaso](./on-failing.md)
 - [Pensamientos random](./random.md)
 - [Acerca del camino de cada uno](./pathless-path.md)
 - [Acerca del ego](./on-ego.md)
