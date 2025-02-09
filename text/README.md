@@ -12,11 +12,11 @@ The date order is from newest to oldest.
 
 ---
 
-- [Sobre fallar y el fracaso](./on-failing.md)
+- [Motivación y acción](./motivacion-accion.md)
 - [Pensamientos random](./random.md)
+- [Sobre fallar y el fracaso](./on-failing.md)
 - [Acerca del camino de cada uno](./pathless-path.md)
 - [Acerca del ego](./on-ego.md)
 - [Mi método creativo](./creativity-methods.md)
 - [Lo que se necesita para la universidad y para la investigación](./what-it-takes.md)
-- [Motivación y acción](./motivacion-accion.md)
 - [La respuesta a cómo investigar no es un Zettelkasten (al menos para mí)](./not-zk.md)
