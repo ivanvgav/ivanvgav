@@ -1,4 +1,46 @@
-# Random thoughts
+# Random thoughts (Pensamientos no catalogados)
+
+`Sun Feb  9 03:45:02 PM -03 2025`
+
+La idea de *Dharma* parece ser una idea de *causa justa* por lo que cada uno
+tiene que ser y hacerse responsable durante tu vida.
+La cuestión está en encontrarla o --si uno no la tiene-- contruirla.
+Creo que sería un proceso largo.
+El tema está en que quizás es abrir demasiados frentes para poder tener todo a la vez,
+aunque también es cierto, y más con mi propia experiencia,
+tener todos los huevos en una misma canasta también es algo que no me ha redituado para nada.
+
+La pregunta que surge entonces es: ¿cuáles son mis valores?
+Cuáles son aquellas motivaciones internas que hacen que uno siga,
+a pesar del dolor.
+El tema está en que no encuentro nada de eso,
+porque la experiencia me ha demostrado que todos los valores con los que me he criado
+han sido puestos en tela de juicio y han demostrado que no tienen la fuerza
+ni la importancia para poder hacer que las cosas cambien o estén como esos
+valores dicen que tienen que estar.
+Entonces la verdad es que creo que esos valores están completamente desencatados
+y me han generado un descontento muy grande del cual todavía no me puedo recuperar,
+y la gente a mi alrededor comienza a pedirme ciertas posturas, posiciones y tareas
+que yo no sé si estoy dispuesto a aceptar y tomar.
+
+La verdad es que todo esto vuelve a llevar al goce con el fallo.
+Por que incluso, me he fallado a mi mismo con mis expectativas de lo que iba a estar
+en estos años, en estos tiempo.
+Y lo que me encuentro es que estoy igual o peor que en el 2020 cuando me habían
+avisado que había ganado la beca,
+solo que mi posición subjetiva es distinta:
+desilucionado, descontento y perdido en mi mismo.
+
+Y que cuando quiero salir de sentirme así,
+hay algo que me retiene y que hace que vuelva a pensar una y otra vez en lo mismo.
+En colocarme en mis propios laberintos,
+en contruir mis propios muros para huir del mundo
+y a la vez regañarme de que lo este haciendo,
+pero sin embargo lo siga haciendo una y otra vez.
+
+- [Sobre el fallo](./on-failing.md)
+
+---
 
 `Sun Feb  9 00:51:58 -03 2025`
 
