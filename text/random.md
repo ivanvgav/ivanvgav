@@ -1,5 +1,10 @@
 # Random thoughts
 
+`Sun Feb  9 00:51:58 -03 2025`
+
+- Tengo que encontrar mi *Dharma*.
+- ¿Cuáles son mis valores?
+
 `Wed Feb  5 15:04:48 -03 2025`
 
 Realmente luego de 5 años no siento que haya aprendido cosas que sean propositivas para mi
