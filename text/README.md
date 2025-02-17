@@ -12,9 +12,9 @@ The date order is from newest to oldest.
 
 ---
 
-- [Motivación y acción](./motivacion-accion.md)
-- [Pensamientos random](./random.md)
 - [Sobre fallar y el fracaso](./on-failing.md)
+- [Pensamientos random](./random.md)
+- [Motivación y acción](./motivacion-accion.md)
 - [Acerca del camino de cada uno](./pathless-path.md)
 - [Acerca del ego](./on-ego.md)
 - [Mi método creativo](./creativity-methods.md)

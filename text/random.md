@@ -1,5 +1,34 @@
 # Random thoughts (Pensamientos no catalogados)
 
+`Mon Feb 17 18:02:52 -03 2025`
+
+Después de hablar con la petisa igual siento la sensación de que no estamos en las mismas páginas.
+No sé cuanto eso va a estar bien.
+Eso es la verdad.
+Su deseo de que yo desee es el imposible de la recursividad.
+Algo muy propio de estar enamorado de dos personas que son completamente obsesivas.
+
+El problema esta en que si ella desea que yo desee es algo que no puedo controlar.
+Porque no puedo controlar realemente mi deseo,
+si es algo que viene de mi inconciente.
+
+Además también hemos hablado de que para con ella debería reprimir varias opiniones.
+Lo que no logro entender es que, un tiempo atras me habia dicho la imagen contraria:
+expresar mis emociones, no contenerlas ni reprimirlas.
+Tiene razón en decir que soy otra persona desde hace varios años
+pero que mi (no)-deseo si se ha incrementado al paso de los años.
+Considero que eso tiene que ver con que durante muchos años he reprmido mucho mis emociones
+(hasta el punto en que muchas veces no puedo identificar lo que realmente siento)
+y también con que no me he arriesgado nada en muchos años,
+debido a que en todos los intentos que he realizo una especie de riesgo me ha ido mal.
+Entonces en esa represión es lo que, para muchas personas era algo esencial y hasta les gustaba de mi,
+es algo que ahora pierden y solo ven la postura pasivo-agresiva;
+el reino de la ironía y el ecepticismo.
+Esa rebeldia va en contra de mi represión,
+pero no tiene una dirección *hacia* algo, no solo *en contra de*.
+
+---
+
 `Sun Feb  9 03:45:02 PM -03 2025`
 
 La idea de *Dharma* parece ser una idea de *causa justa* por lo que cada uno
