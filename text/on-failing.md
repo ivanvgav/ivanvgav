@@ -1,7 +1,28 @@
-# Sobre el fallo y fallar
-Creo que esta ha sido uno de esas veces que el psicólogo dió bastante en la tecla.
+# Sobre las expectativas de cuando uno falla
+`Sun Feb 16 20:58:29 -03 2025`
 
-La verdad que desde la sesión no he podido dejar de pensar en el tema del goced del fallo y el fracaso.
+Creo que lo que necesito es tener un **W**.
+Pero ganar en tanto me sirva realmente de todo lo que tengo pensado en el futuro.
+Para que ese elemento externo me de lo suficiente 
+Y con eso tengo que dejarme de preguntar el cómo hacerlo.
+Porque durante dos años lo me lo he estado preguntando y todas las posibles respuestas
+han sido o nulas o infructuosas.
+Quizás el único cómo que si me tengo que preguntar y responder es: ¿cómo empezar?
+Creo que tengo que seguir las cosas de la mejor manera posible.
+Por cosas estoy hablando del curso de programación.^[
+Creo que uno de los más grandes errores es haber hablado de lo que estaba haciendo
+con la programación.
+El no hablar de las cosas creo que tiene un poder que no me di cuenta antes.]
+
+Creo que tengo que conseguir algún proyecto que me haga lo posible de evolucionar
+pero que no me haga desmotivarme lo suficiente.
+
+---
+
+# Sobre el fallo y fallar
+Creo que esta ha sido uno de esas veces que el psicólogo dio bastante en la tecla.
+
+La verdad que desde la sesión no he podido dejar de pensar en el tema del goce del fallo y el fracaso.
 
 A continuación coloco una nota sin editar de lo que pensado el sábado (08/02) al mediodía:
 
