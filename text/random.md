@@ -1,4 +1,32 @@
 # Random thoughts (Pensamientos no catalogados)
+`Fri Feb 21 00:27:18 -03 2025`
+
+Creo que recién hoy puedo estar un poco más tranquilo.
+Y creo que esa es la palabra que estoy buscando para describir este momento.
+Me aseguraron la prórroga de la beca.
+Algo bastante sustentable,
+aunque creo que también es como hacer un *rollover* de la deuda del fondo.
+Pero me da tiempo.
+Me da tiempo a pensar seriamente que es lo que voy a querer hacer conmigo.
+Sobre todo para cuando ya no tenga más ese dinero disponible.
+Creo que tengo que ponerme firme en tratar de experimentar cosas
+para las que después pueda trabajar en el cotidiano,
+sintiendome que soy útil y que implique algún desafio.
+Creo que es bastante lo que pido,
+pero veremos con el paso del tiempo.
+Sino será algún lugar para atender y nada más,
+porque la verdad es que no quiero volver a las clases.
+No es algo que me apetece ni sé que voy a disfrutar ni motivarme, ni un poco.
+
+Por otro lado también me tranquiliza que a la petisa le estén saliendo las cosas
+y también que esté dispuesta a poder hacer las coass para poder crecer en esos ámbitos.
+Sobre todo me tranquila,
+aunque no me agrada del todo,
+que todo su esfuerzo sobre en la facultad le haya rendido frutos,
+aunque no de la manera en que ella lo esperaba en un principio,
+pero eso no quita que no lo vaya a aprovechar.
+
+---
 
 `Mon Feb 17 18:02:52 -03 2025`
 
