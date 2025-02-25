@@ -12,6 +12,7 @@ The date order is from newest to oldest.
 
 ---
 
+- [Sobre la escritura](./on-writing.md)
 - [Sobre mis docentes](./teachers)
 - [Sobre fallar y el fracaso](./on-failing.md)
 - [Pensamientos random](./random.md)
