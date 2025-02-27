@@ -57,11 +57,51 @@ pero no tiene una dirección *hacia* algo, no solo *en contra de*.
 
 ---
 
+`Thu Feb 27 06:15:03 PM -03 2025`
+
+Hay algo increíble de mi actitud respecto a las cosas que me gustan:
+siempre me ha causado cierta fascinación ver a alguien hacerlo.
+Siempre he apuntado a ver, de las cosas que realmente me apasionan,
+
+Ahora bien, esto no sucede cuando las intento hacer.
+Quizás es porque siempre estoy observando a las grandes ligas y
+decepciona bastante que uno no puede hacer lo que ha estado viendo y
+lo que se puede lograr.
+Incluso recuerdo que siempre hacía esto con Emiliano cuando jugábamos con video juegos.
+Siempre él era mucho mejor jugando que yo
+y la mayoría de las veces me divertía mucho más viendo jugar que jugando efectivamente.
+Creo que tiene que ver con todo lo que pienso acerca de cómo siempre se hacen las cosas.
+Siempre teniendo a mis padres en un pedestal alto respecto de sus logros,
+siempre la familia de mi mama marcándome de mala manera cuando algo me salía mal.
+Entonces para poder evitar eso directamente iba a una actividad pasiva para que
+solo haya disfrute y una simulación de participación en ese acompañamiento.
+
+Pienso en esto cuando estoy programando.
+Se que no es una actividad fácil.
+Sé que hacerlo bien implica mucho esfuerzo y tiempo.
+Y mucha repetición para que el *know-how* verdaderamente se quede en vos
+Y la verdad es que las cosas que implican eso
+siempre las he rechazado y no he podido saber como llevarlas adelante.
+Por eso creo que en la mayoría de las cosas de la vida adulta no me va bien
+o la sufro bastante.
+
+A su vez, respecto de la programación, creo que tengo que encontrar alguna motivación importante
+(no encuentro otra palabra mejor, pero se que no es la adecuada)
+para poder seguir adelante con constancia y consistencia.
+Porque sino se que es algo que no voy a poder llevar adelante
+y hay algo en eso que si me interesa y mucho pero que no hace que pueda pegarseme
+como se me pego la lectura y la interpretación filosófica en su momento
+o el indagar sobre cuestiones de política en otro.
+No sé qué es...algo que también tengo que averiguar.
+La cuestión es que todo cuesta *tiempo*...
+
+---
+
 `Sun Feb  9 03:45:02 PM -03 2025`
 
 La idea de *Dharma* parece ser una idea de *causa justa* por lo que cada uno
 tiene que ser y hacerse responsable durante tu vida.
-La cuestión está en encontrarla o --si uno no la tiene-- contruirla.
+La cuestión está en encontrarla o --si uno no la tiene-- construirla.
 Creo que sería un proceso largo.
 El tema está en que quizás es abrir demasiados frentes para poder tener todo a la vez,
 aunque también es cierto, y más con mi propia experiencia,
