@@ -1,4 +1,21 @@
 # Random thoughts (Pensamientos no catalogados)
+
+`Tue, Mar  4, 2025 10:40:56 AM`
+
+Tengo un pequeño problema que se debe a que no se muy bien cómo es que tengo que comenzar algo que creo que quiero.
+Y el otro problema es que no se si lo que quiero es algo que quiero realmente yo
+o es algo se me ha impuesto o que vengo configurado para poder querer eso...
+La verdad es que nada de esas preguntas son buenas ni tampoco creo que
+se pueden responder solo *a priori*.
+Por lo que se genera un *uroboros* (serpiente que se come la cola a sí misma)
+haciendo que el *loop* no pueda generar nada.
+No sea ni un circulo virtuoso o vicioso,
+sino un circulo neutralizado que gira en falso no pudiendo hacer nada.
+Lo único que produce son estas reflexiones que escribo que solo tienen un valor
+anecdótico para poder seguir alimentando ese circuito circular.
+
+---
+
 `Mon Mar  3 09:33:44 PM -03 2025`
 
 Pienso que mi cabeza tiene un péndulo respecto de las expectativas y
