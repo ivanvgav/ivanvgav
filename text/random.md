@@ -1,4 +1,25 @@
 # Random thoughts (Pensamientos no catalogados)
+`Mon Mar  3 09:33:44 PM -03 2025`
+
+Pienso que mi cabeza tiene un péndulo respecto de las expectativas y
+modos de vivir, dos modos de vivir que los tuve durante toda mi vida:
+(1) vivir como vive mi tía donde solo le bastan las necesidades básicas y nada más;
+(2) vivir como vivió mi madre buscando y consiguiendo e intentando cambiar y realizar algo en el mundo.
+Es un péndulo que lo tengo todo el tiempo en mi cabeza.
+Es algo que durante mucho tiempo uno tiró por sobre el otro y con mucha fuerza más que la otra.
+Creo que no es posible, o al menos no lo estoy viendo ahora,
+como pueden convivir de una manera plausible para lograr un proyecto de vida.
+Sobre todo con tratar con el trabajo una vez que ese trabajo ha sido totalmente desencantado.
+Y no puedo encontrar o dar con el proceso para poder hacer algo nuevo
+que me permita llevar a algún lado de esos péndulos.
+Siento que, análogamente, estoy en una misma posición en la que el contexto de la Argentina
+también se encuentra con el péndulo político los cuales son dos maneras de considerar al pais.
+La diferencia para que no sea una equivalencia es que el péndulo si tiene un antagonismo total.
+Uno podría decir que las posiciones de las que yo hablo son incompatibles,
+eso es algo que no se la verdad...
+
+---
+
 `Fri Feb 21 00:27:18 -03 2025`
 
 Creo que recién hoy puedo estar un poco más tranquilo.
