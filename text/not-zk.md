@@ -1,3 +1,20 @@
+# Modos de lectura y escritura a la hora de investigar
+
+Creo que si tendría que hacer todo de nuevo,
+lo que sostendría sería el formato analógico.
+Aunque si bien es algo que tiene que ver con el espacio y con el papel,
+sería mucho mejor tener a mano y las *marginalia* al toque de lo que uno a leído.
+Lo que sí, quizás manejaría la impresión para que sean booklets de A5
+y así llevarlo más a mano.
+Decididamente la supuesta rapidez de la que tanto se habla al tener todo online
+y en digital no hace a que uno pueda producir de la mejor manera posible.
+Si bien los textos en plano si es un mejor formato para escribir,
+pero al momento de la lectura y de recuperar información creo que lo mejor
+sigue siendo las anotaciones que uno mismo puede haber hecho en el papel
+con una regla y un lápiz o lapicera.
+
+---
+
 # Mantener una sola herramienta para la investigación
 
 `Mon Feb  3 11:13:06 -03 2025`
