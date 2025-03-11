@@ -5,3 +5,6 @@
   - [ ] Armar una lista con las cosas que podría experimentar
   - [ ] Ver como puedo hacer una de esas cosas una por mes
 - [ ] Ver si puedo hacer algo un poco más lindo (web)
+- [ ] Buscar la fuente de tanta resistencia para empezar a programar
+
+# Temp

@@ -12,10 +12,11 @@ The date order is from newest to oldest.
 
 ---
 
+- [Sobre la inclusión o radizalización en política](./on-integration.md)
+- [Pensamientos random](./random.md)
 - [Sobre la escritura](./on-writing.md)
 - [Sobre mis docentes](./teachers)
 - [Sobre fallar y el fracaso](./on-failing.md)
-- [Pensamientos random](./random.md)
 - [Motivación y acción](./motivacion-accion.md)
 - [Acerca del camino de cada uno](./pathless-path.md)
 - [Acerca del ego](./on-ego.md)
