@@ -1,5 +1,23 @@
 # Acerca de la inclusión o integración en la sociedad
-Entre las repuestas para el futuro proximo de la conformación política para después de Milei
+` Sat Mar 22 08:11:13 -03 2025 `
+
+Considero que esto es uno de los problemas más grandes que se tiene respecto a
+cómo generar un programa de Estado y de gobierno.
+Claramente esto no es algo que se pueda hacer de la noche a la mañana
+y donde tiene que haber un acuerdo bastante sustentable por varios años.
+Algo que parece que la Argentina no va a tener nunca.
+De hecho, no por decir que la identidad nacional nuestra es narcisista,
+pero el mundo --en el aspecto político-- cada vez se está pareciendo más a los regímenes
+de los países con gran inestabilidad económica como el nuestro (y no solo el nuestro).
+Entonces la verdad es que no sé muy bien cómo es posible que salgamos del laberinto.
+A veces pienso que en vez de que salgamos por arriba, como lo hemos hecho algunas veces en la historia,
+parece que queremos salir por abajo.
+El problema con esto último es que salir de esa manera no deja el laberinto intacto,
+sino que lo hace colapsar, y con ello, nos enterramos a nosotros mismos.
+
+---
+
+Entre las repuestas para el futuro próximo de la conformación política para después de Milei
 sale mucho que lo que hay que hacer es o bien incluir a una mayoría o la de radicalizar totalmente.
 No sé si alguna de las dos posturas es aquella que sea capaz de poder saldar las deudas políticas
 entre las dirigencias y los ciudadanos.
