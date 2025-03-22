@@ -8,3 +8,5 @@ que deseo mostrar al público.
 Actualmente soy un estudiante de doctorado en filosofía con una orientación a la lógica.
 Trabajo para la Univerdad Nacional de Tucumán como profesor
 en la cátedra de Lógica de la Facultad de Derecho y Cs. Sociales.
+
+A su vez estoy estudiando informática por mi cuenta para poder programar.
