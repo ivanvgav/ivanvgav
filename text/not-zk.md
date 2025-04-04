@@ -17,6 +17,32 @@ con una regla y un lápiz o lapicera.
 
 # Mantener una sola herramienta para la investigación
 
+`Fri Apr  4 18:25:32 -03 2025`
+
+Creo que lo mejor que se tiene que hacer ahora es tomar en cuenta que
+todo se puede hacer desde un repositorio de [Github](https://github.com).
+
+Esto se puede lograr de la siguiente manera:
+
+- Tener todo en un solo repositorio, excepto los pdfs
+    - Los pdfs tienen que estar reunidos en un google drive u otra nube
+- Todo tenerlo en formato markdown
+- Trabajar en formato de GMF (Github Mardown Format)
+- Trabajar con la versión de `vscode` de `github.dev`
+- Tener toda la bibliografía en un archivo `bib`
+- Para trabajar con los pdfs y las anotaciones que tener para la bibliografía
+  usar [hypothes.is](https://hypothes.is) con la página de [docdrop](https://docdrop.org)
+- Para hacer cosas de manuscritos tenemos que usar [overleaf](https://overleaf.com)
+  - Usar conversión con `pandoc`
+  - Usar paquete `markdown` en el artículo `latex`
+
+Todo esto permite que se pueda trabajar en cualquier computadora,
+que se tenga solo internet pero en lo mínimo.
+También hace que todo se pueda manejar del sistema del administrador de proyectos de GitHub.
+Sobre todo porque todo lo que tiene que ver con los servicios son gratuitos
+y que todo sea en texto plano y puede ser utilizado de una manera reproducible.
+
+
 `Mon Feb  3 11:13:06 -03 2025`
 
 Hoy en día creo que la mejor herramienta para poder trabajar con investigación,
