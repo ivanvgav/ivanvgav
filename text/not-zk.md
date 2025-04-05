@@ -42,6 +42,16 @@ También hace que todo se pueda manejar del sistema del administrador de proyect
 Sobre todo porque todo lo que tiene que ver con los servicios son gratuitos
 y que todo sea en texto plano y puede ser utilizado de una manera reproducible.
 
+Lo que más se destaca es:
+
+- La portabilidad
+- Lo mínimo que se necesita
+
+Para los casos de trabajar de manera offline,
+se tiene que considerar tener a `vscode` portable y
+tener bajado el visor de pdf con hypothes.is y basta con eso
+ya que todo lo demás se puede anotar en un archivo de texto
+y luego subirlo a GitHub.
 
 `Mon Feb  3 11:13:06 -03 2025`
 
