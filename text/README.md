@@ -12,6 +12,7 @@ The date order is from newest to oldest.
 
 ---
 
+- [Acerca de quien soy](./who-am-i.md)
 - [CS](./cs.md)
 - [Sobre la inclusión o radizalización en política](./on-integration.md)
 - [Pensamientos random](./random.md)
