@@ -79,4 +79,3 @@ No quiero que las personas que me tengan que leer se la fumen.
 Para ello simplemente tengo que encontrar algo más que me permita mostrarme a mi.
 El tema es que durante muchos años pensé que sería la escritura
 y resulta ser que no lo es.
-

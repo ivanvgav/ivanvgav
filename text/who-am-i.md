@@ -52,7 +52,7 @@ filosófico y lo político, que han despertado en mí un interés constante por
 observarlos, aunque muy pocas veces he logrado incidir verdaderamente en ellos.
 
 No lo he conseguido, por ejemplo, en el ámbito político, porque no me considero
-una persona capaz de involucrarse en el barrio para comprender, de manera
+una persona capaz de involucrarse en el barro para comprender, de manera
 efectiva, la dimensión política del ser humano. En cuanto a lo tecnológico, creo
 que aún no he logrado asimilar la forma en que se articula, más allá del
 conocimiento puramente teórico, la dimensión práctica que implica toda
